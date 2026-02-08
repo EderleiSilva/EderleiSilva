@@ -3,8 +3,7 @@
 ### Minhas Estatísticas 📊
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EderleiSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderleiSilva&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EderleiSilva&theme=tokyonight" alt="Streak do GitHub" />
 </div>
 
 ---
